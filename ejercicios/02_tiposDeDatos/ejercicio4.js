@@ -1,0 +1,1 @@
+console.log(1, 200, 'Genial', false, true)
